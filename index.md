@@ -1,3 +1,0 @@
-# Cláudio Gomes
-
-Under construction...
