@@ -35,6 +35,3 @@ DTs will therefore accommodate different viewpoints of the PT, with IP being pre
 *Self-adaptations* will be rehearsed and formally verified by the DT before being carried out in real life.
 As systems of systems, DTs will be created from the *composition* of other DTs.
 
-# Publications
-
-Please find my publications **[here](https://pure.au.dk/portal/da/persons/cludio-angelo-goncalves-gomes(63d3d37d-ef61-40b6-a263-52792c5fd9e0)/publications.html)**

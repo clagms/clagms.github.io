@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -21,10 +21,10 @@
 title: Cláudio Gomes
 email: claudio.gomes@ece.au.dk
 description: >- # this means to ignore newlines until "baseurl:"
-     
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  clagms
+github_username: clagms
 linkedin_username: clagms
 dblp_id: 96
 scholar_id: PLq1Lv8AAAAJ
@@ -43,14 +43,21 @@ theme: minima
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
+exclude:
+  #   - .sass-cache/
+  - .jekyll-cache/
+  #   - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - README.md
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+publications:
+  2014:
+    Gomes2014: |
+      Gomes, Cláudio, Bruno Barroca, and Vasco Amaral. “Classification of Model Transformation Tools: Pattern Matching Techniques.” In Model-Driven Engineering Languages and Systems, edited by Juergen Dingel, Wolfram Schulte, Isidro Ramos, Silvia Abrahão, and Emilio Insfran, Vol. 8767. Lecture Notes in Computer Science. Springer International Publishing, 2014. https://doi.org/10.1007/978-3-319-11653-2_38.
+
