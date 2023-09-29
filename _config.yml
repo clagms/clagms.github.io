@@ -55,9 +55,3 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-publications:
-  2014:
-    Gomes2014: |
-      Gomes, Cláudio, Bruno Barroca, and Vasco Amaral. “Classification of Model Transformation Tools: Pattern Matching Techniques.” In Model-Driven Engineering Languages and Systems, edited by Juergen Dingel, Wolfram Schulte, Isidro Ramos, Silvia Abrahão, and Emilio Insfran, Vol. 8767. Lecture Notes in Computer Science. Springer International Publishing, 2014. https://doi.org/10.1007/978-3-319-11653-2_38.
-

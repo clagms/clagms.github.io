@@ -11,6 +11,8 @@ layout: home
 
 My research interests are focused on two main areas: **co-simulation** and the **engineering of digital twins**.
 
+Please find my CV here: [**[pdf]**](./assets/cv/cv_claudio.pdf)
+
 ## Co-simulation
 Modeling and simulation techniques have enabled companies to diagnose and solve problems before any expensive prototypes are built. But with the increase in complexity of cyber physical systems, companies have to divide and conquer: they have to develop different components concurrently and they have to do business with specialized suppliers. Now it becomes harder to develop systems first time right because different teams will use different tools to build their models and the suppliers will not be willing to give away detailed models in order to protect their intellectual property.
 

@@ -9,10 +9,10 @@ layout: default
 
   {{ content }}
 
-  {%- if site.publications.size > 0 -%}
+  {%- if site.data.publications.size > 0 -%}
     <h1 id="publications">Publications</h1>
     
-    {%- for year_pubs in site.publications -%}
+    {%- for year_pubs in site.data.publications -%}
       <h2>{{ year_pubs[0] }}</h2>
       <ul>
         {%- for pub in year_pubs[1] -%}

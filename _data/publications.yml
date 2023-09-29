@@ -1,0 +1,256 @@
+2023:
+
+  # Bogomolov2023: |
+  #   Bogomolov, Sergiy, Cláudio Gomes, Carlos Isasa, Sadegh Soudjani, Paulius Stankaitis, and Thomas Wright. “Reachability Analysis of FMI Models Using Data-Driven Dynamic Sensitivity.” SIMULATION, Special Issue: Engineering of Dependable Digital Twins, 2023, submitted.
+
+  # Buhagiar2023: |
+  #   Buhagiar, Aaron John, Rikke Fanøe, Peter Gorm Larsen, William E. Scott, Leo Freitas, Thomas Nielsen, and Cláudio Gomes. “Understanding Pancreas-Machine Interactions during Preservation: A Mathematical Approach,” 2023.
+
+  Abbiati2023: |
+    Abbiati, Giuseppe, Ecem E. Baş, Cláudio Gomes, and Peter Gorm Larsen. “Hybrid Fire Testing Using FMI-Based Co-Simulation.” Fire Safety Journal 139 (August 2023): 103832. https://doi.org/10.1016/j.firesaf.2023.103832.
+
+  Alfalouji2023: |
+    Alfalouji, Qamar, Thomas Schranz, Basak Falay, Sandra Wilfling, Johannes Exenberger, Thorsten Mattausch, Cláudio Gomes, and Gerald Schweiger. “Co-Simulation for Buildings and Smart Energy Systems — A Taxonomic Review.” Simulation Modelling Practice and Theory 126 (July 2023): 102770. https://doi.org/10.1016/j.simpat.2023.102770.
+
+  Bottjer2023: |
+    Böttjer, Till, Daniella Tola, Fatemeh Kakavandi, Christian R. Wewer, Devarajan Ramanujan, Cláudio Gomes, Peter G. Larsen, and Alexandros Iosifidis. “A Review of Unit Level Digital Twin Applications in the Manufacturing Industry.” CIRP Journal of Manufacturing Science and Technology 45 (October 2023): 162–89. https://doi.org/10.1016/j.cirpj.2023.06.011.
+
+  Frasheri2023: |
+    Frasheri, Mirgita, Henrik Ejersbo, Casper Thule, Cláudio Gomes, Jakob Levisen Kvistgaard, Peter Gorm Larsen, and Lukas Esterle. “Addressing Time Discrepancy between Digital and Physical Twins.” Robotics and Autonomous Systems, Software Engineering for Robotics, Volume 161, no. March 2023, 104347 (2023): to appear. https://doi.org/10.1016/j.robot.2022.104347.
+
+  Hansen2023: |
+    Hansen, Simon Thrane, Cláudio Gomes, and Zahra Kazemi. “Synthesizing Orchestration Algorithms for FMI 3.0.” In 2023 Annual Modeling and Simulation Conference, 184–95. Ontario, Canada, 2023.
+
+  Inci2023: |
+    Inci, Emin Oguz, Cláudio Gomes, Jan Croes, and Wim Desmet. “Error Estimators for Adaptive Scheduling Algorithm for Serial Co-Simulation.” In Annual Modelling and Simulation Conference, 73–83. Ontario, Canada, 2023.
+
+  Kakavandi2023: |
+    Kakavandi, Fatemeh, Cláudio Gomes, Roger De Reus, Jeppe Badstue, Jakob Langdal Jensen, Peter Gorm Larsen, and Alexandros Iosifidis. “Towards Developing a Digital Twin for a Manufacturing Pilot Line: An Industrial Case Study.” In Digital Twin Driven Intelligent Systems and Emerging Metaverse, 39–64. Singapore: Springer Nature Singapore, 2023. https://doi.org/10.1007/978-981-99-0252-1_2.
+
+  Naseri2023: |
+    Naseri, Farshid, Santiago Gil, Corneliu Barbu, Erdal Cetkin, Gulsah Yarimca, Anders Jensen, Peter Gorm Larsen, and Cláudio Gomes. “Digital Twin of Electric Vehicle Battery Systems: Comprehensive Review of the Use Cases, Requirements, and Platforms.” Renewable and Sustainable Energy Reviews 179 (2023): 113280. https://doi.org/10.1016/j.rser.2023.113280.
+
+  Oakes2023: |
+    Oakes, Bentley, Cláudio Gomes, Peter Gorm Larsen, Joachim Denil, Julien DeAntoni, João Cambeiro, and John Fitzgerald. “Examining Model Qualities and Their Impact on Digital Twins.” In Annual Modelling and Simulation Conference, 220–32. Ontario, Canada, 2023.
+
+2022:
+  Esterle2022: |
+    Esterle, Lukas, Henrik Ejersbo, Mirgita Frasheri, Cláudio Gomes, Hugo Daniel Macedo, and Peter Gorm Larsen. “Digital Twins for Autonomous Intelligent Systems: From Development to Deployment.” In 2022 IEEE International Conference on Autonomic Computing and Self-Organizing Systems Companion (ACSOS-C), 53–54. CA, USA: IEEE, 2022. https://doi.org/10.1109/ACSOSC56246.2022.00028.
+
+  Feng2022a: |
+    Feng, Hao, Cláudio Gomes, Santiago Gil, Peter H. Mikkelsen, Daniella Tola, Peter Gorm Larsen, and Michael Sandberg. “Integration Of The Mape-K Loop In Digital Twins.” In 2022 Annual Modeling and Simulation Conference (ANNSIM), 102–13. San Diego, CA, USA: IEEE, 2022. https://doi.org/10.23919/ANNSIM55834.2022.9859489.
+
+  Feng2022: |
+    Feng, Hao, Cláudio Gomes, Michael Sandberg, Hugo Daniel Macedo, and Peter Gorm Larsen. “Under What Conditions Does a Digital Shadow Track a Periodic Linear Physical System?” In Software Engineering and Formal Methods. SEFM 2021 Collocated Workshops, 13230:143–55. Cham: Springer International Publishing, 2022. https://doi.org/10.1007/978-3-031-12429-7_11.
+
+  Hansen2022a: |
+    Hansen, Simon Thrane, Cláudio Gomes, Masoud Najafi, Torsten Sommer, Matthias Blesken, Irina Zacharias, Oliver Kotte, et al. “The FMI 3.0 Standard Interface for Clocked and Scheduled Simulations.” Electronics 11, no. 21 (November 7, 2022): 3635. https://doi.org/10.3390/electronics11213635.
+
+  Hansen2022: |
+    Hansen, Simon Thrane, Casper Thule, Cláudio Gomes, Jaco van de Pol, Maurizio Palmieri, Emin Oguz Inci, Frederik Madsen, Jesús Alfonso, José Ángel Castellanos, and José Manuel Rodriguez. “Verification and Synthesis of Co-Simulation Algorithms Subject to Algebraic Loops and Adaptive Steps.” International Journal on Software Tools for Technology Transfer 24, no. 6 (December 2022): 999–1024. https://doi.org/10.1007/s10009-022-00686-8.
+
+  Kakavandi2022: |
+    Kakavandi, Fatemeh, Roger De Reus, Cláudio Gomes, Negar Heidari, Alexandros Iosifidis, and Peter Gorm Larsen. “Product Quality Control in Assembly Machine under Data Restricted Settings.” In 2022 IEEE 20th International Conference on Industrial Informatics (INDIN), 735–41. Perth, Australia: IEEE, 2022. https://doi.org/10.1109/INDIN51773.2022.9976173.
+
+  Kulik2022: |
+    Kulik, Tomas, Cláudio Gomes, Hugo Daniel Macedo, Stefan Hallerstede, and Peter Gorm Larsen. “Towards Secure Digital Twins.” In Leveraging Applications of Formal Methods, Verification and Validation. Practice, edited by Tiziana Margaria and Bernhard Steffen, 13704:159–76. Cham: Springer Nature Switzerland, 2022. https://doi.org/10.1007/978-3-031-19762-8_11.
+
+  Madsen2022: |
+    Madsen, Emil, Daniella Tola, Carlos Hansen, Cláudio Gomes, and Peter Gorm Larsen. “AURT: A Tool for Dynamics Calibration of Robot Manipulators.” In 2022 IEEE/SICE International Symposium on System Integration (SII), 190–95. Narvik, Norway: IEEE, 2022. https://doi.org/10.1109/SII52469.2022.9708769.
+
+  Tola2022: |
+    Tola, Daniella, Emil Madsen, Cláudio Gomes, Lukas Esterle, Christian Schlette, Casper Hansen, and Peter Gorm Larsen. “Towards Easy Robot System Integration: Challenges and Future Directions.” In 2022 IEEE/SICE International Symposium on System Integration (SII), 77–82. Narvik, Norway: IEEE, 2022. https://doi.org/10.1109/SII52469.2022.9708846.
+
+  Wright2022: |
+    Wright, Thomas, Cláudio Gomes, and Jim Woodcock. “Formally Verified Self-Adaptation of an Incubator Digital Twin.” In Leveraging Applications of Formal Methods, Verification and Validation. Practice, 13704:89–109. Cham: Springer Nature Switzerland, 2022. https://doi.org/10.1007/978-3-031-19762-8_7.
+
+2021:
+  Bottjer2021: |
+    Böttjer, Till, Georg Ørnskov Rønsch, Cláudio Gomes, Devarajan Ramanujan, Alexandros Iosifidis, and Peter Gorm Larsen. “Data-Driven Identification of Remaining Useful Life for Plastic Injection Moulds.” In Towards Sustainable Customization: Bridging Smart Products and Manufacturing Systems, 431–39. Cham: Springer International Publishing, 2021. https://doi.org/10.1007/978-3-030-90700-6_49.
+
+  Esterle2021: |
+    Esterle, Lukas, Cláudio Gomes, Mirgita Frasheri, Henrik Ejersbo, Sven Tomforde, and Peter G. Larsen. “Digital Twins for Collaboration and Self-Integration.” In 2021 IEEE International Conference on Autonomic Computing and Self-Organizing Systems Companion (ACSOS-C), 172–77. DC, USA: IEEE, 2021. https://doi.org/10.1109/ACSOS-C52956.2021.00040.
+
+  Feng2021b: |
+    Feng, Hao, Cláudio Gomes, Michael Sandberg, Casper Thule, Kenneth Lausdahl, and Peter Gorm Larsen. “Developing a Physical and Digital Twin: A Process Model.” In 2021 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C). Fukuoka, Japan: IEEE, 2021. https://doi.org/10.1109/MODELS-C53483.2021.00050.
+
+  Feng2021a: |
+    Feng, Hao, Cláudio Gomes, Casper Thule, Kenneth Lausdahl, Alexandros Iosifidis, and Peter Gorm Larsen. “Introduction to Digital Twin Engineering.” In 2021 Annual Modeling and Simulation Conference (ANNSIM), 1–12. Fairfax, VA, USA: IEEE, 2021. https://doi.org/10.23919/ANNSIM52504.2021.9552135.
+
+  Feng2021: |
+    Feng, Hao, Cláudio Gomes, Casper Thule, Kenneth Lausdahl, Michael Sandberg, and Peter Gorm Larsen. “The Incubator Case Study for Digital Twin Engineering.” arXiv:2102.10390 [Cs, Eess], February 20, 2021. http://arxiv.org/abs/2102.10390.
+
+  Gomes2021a: |
+    Gomes, Cláudio, Giuseppe Abbiati, and Peter Gorm Larsen. “Seismic Hybrid Testing Using FMI-Based Co-Simulation.” In Proceedings of the 14th International Modelica Conference. online: Linköping University Electronic Press, Linköpings Universitet, 2021. https://doi.org/10.3384/ecp21181287.
+
+  Gomes2021: |
+    Gomes, Cláudio, Masoud Najafi, Torsten Sommer, Matthias Blesken, Irina Zacharias, Oliver Kotte, Pierre Mai, et al. “The FMI 3.0 Standard Interface for Clocked and Scheduled Simulations.” In Proceedings of the 14th International Modelica Conference. online: Linköping University Electronic Press, Linköpings Universitet, 2021. https://doi.org/10.3384/ecp2118127.
+
+  Hansen2021a: |
+    Hansen, Simon Thrane, Cláudio Gomes, Peter Gorm Larsen, and Jaco Van de Pol. “Synthesizing Co-Simulation Algorithms with Step Negotiation and Algebraic Loop Handling.” In 2021 Annual Modeling and Simulation Conference (ANNSIM), 1–12. Fairfax, VA, USA: IEEE, 2021. https://doi.org/10.23919/ANNSIM52504.2021.9552073.
+
+  Hansen2021b: |
+    Hansen, Simon Thrane, Cláudio Gomes, Maurizio Palmieri, Casper Thule, Jaco van de Pol, and Jim Woodcock. “Verification of Co-Simulation Algorithms Subject to Algebraic Loops and Adaptive Steps.” In Formal Methods for Industrial Critical Systems, edited by Alberto Lluch Lafuente and Anastasia Mavridou, 12863:3–20. Lecture Notes in Computer Science. Cham: Springer International Publishing, 2021. https://doi.org/10.1007/978-3-030-85248-1_1.
+
+  Hansen2021: |
+    Hansen, Simon Thrane, Casper Thule, and Cláudio Gomes. “An FMI-Based Initialization Plugin for INTO-CPS Maestro 2.” In Software Engineering and Formal Methods. SEFM 2020 Collocated Workshops, edited by Loek Cleophas and Mieke Massink, 295–310. Virtual event: Springer International Publishing, 2021. https://doi.org/10.1007/978-3-030-67220-1_22.
+
+  Inci2021: |
+    Inci, Emin Oguz, Jan Croes, Wim Desmet, Cláudio Gomes, Casper Thule, Kenneth Lausdahl, and Peter Gorm Larsen. “The Effect and Selection of Solution Sequence in Co-Simulation.” In 2021 Annual Modeling and Simulation Conference (ANNSIM), 1–12. Fairfax, VA, USA: IEEE, 2021. https://doi.org/10.23919/ANNSIM52504.2021.9552130.
+
+  Junghanns2021: |
+    Junghanns, Andreas, Torsten Blochwitz, Christian Bertsch, Torsten Sommer, Karl Wernersson, Andreas Pillekeit, Irina Zacharias, et al. “The Functional Mock-up Interface 3.0 - New Features Enabling New Applications.” In Proceedings of the 14th International Modelica Conference. online: Linköping University Electronic Press, Linköpings Universitet, 2021. https://doi.org/10.3384/ecp2118117.
+
+  Legaard2021a: |
+    Legaard, Christian Møldrup, Thomas Schranz, Gerald Schweiger, Ján Drgoňa, Basak Falay, Cláudio Gomes, Alexandros Iosifidis, Mahdi Abkar, and Peter Gorm Larsen. “Constructing Neural Network-Based Models for Simulating Dynamical Systems.” ACM Computing Surveys, 2021, 3567591. https://doi.org/10.1145/3567591.
+
+  Oakes2021: |
+    Oakes, Bentley James, Cláudio Gomes, Franz Rudolf Holzinger, Martin Benedikt, Joachim Denil, and Hans Vangheluwe. “Hint-Based Configuration of Co-Simulations with Algebraic Loops.” Simulation and Modeling Methodologies, Technologies and Applications, Advances in Intelligent Systems and Computing, 1260 (2021): 1–28. https://doi.org/10.1007/978-3-030-55867-3_1.
+
+  Paredis2021: |
+    Paredis, Randy, Cláudio Gomes, and Hans Vangheluwe. “Towards a Family of Digital Model/Shadow/Twin Workflows and Architectures.” In Proceedings of the 2nd International Conference on Innovative Intelligent Industrial Production and Logistics, 174–82. Online Streaming: SCITEPRESS - Science and Technology Publications, 2021. https://doi.org/10.5220/0010717600003062.
+
+  Tola2021: |
+    Tola, Daniella, Cláudio Gomes, Carl Schultz, Christian Schlette, Casper Hansen, and Lukas Esterle. “RoboCIM: Towards a Domain Model for Industrial Robot System Configurators despite Tribal Knowledge.” In 5th International Joint Conference on Rules and Reasoning. Leuven, Belgium, 2021. http://ceur-ws.org/Vol-2956/paper12.pdf.
+
+  Woodcock2021: |
+    Woodcock, Jim, Cláudio Gomes, Hugo Daniel Macedo, and Peter Gorm Larsen. “Uncertainty Quantification and Runtime Monitoring Using Environment-Aware Digital Twins.” In Leveraging Applications of Formal Methods, Verification and Validation: Tools and Trends, 12479:72–87. Lecture Notes in Computer Science. Springer International Publishing, 2021. https://doi.org/10.1007/978-3-030-83723-5_6.
+
+2020:
+  Gomes2020: |
+    Gomes, Cláudio, Joachim Denil, and Hans Vangheluwe. “Causal-Block Diagrams: A Family of Languages for Causal Modelling of Cyber-Physical Systems.” In Foundations of Multi-Paradigm Modelling for Cyber-Physical Systems, edited by Paulo Carreira, Vasco Amaral, and Hans Vangheluwe, 97–125. Cham: Springer International Publishing, 2020. https://doi.org/10.1007/978-3-030-43946-0_4.
+
+  Gomes2020a: |
+    Gomes, Cláudio, Romain Franceschini, Nick Battle, Casper Thule, Kenneth Lausdahl, Hans Vangheluwe, and Peter Gorm Larsen. “Application of Model-Based Testing to Dynamic Evaluation of Functional Mockup Units.” In Proceedings of the American Modelica Conference, 149–58. Boulder, Colorado, USA: Linköping University Electronic Press, Linköpings Universitet, 2020. https://doi.org/10.3384/ecp20169149.
+
+  Gomes2020b: |
+    Gomes, Cláudio, Casper Thule, Levi Lúcio, Hans Vangheluwe, and Peter Gorm Larsen. “Generation of Co-Simulation Algorithms Subject to Simulator Contracts.” In Software Engineering and Formal Methods, edited by Javier Camara and Martin Steffen, 12226:34–49. Lecture Notes in Computer Science. Oslo, Norway: Springer International Publishing, 2020. https://doi.org/10.1007/978-3-030-57506-9_4.
+
+  Larsen2020: |
+    Larsen, Peter Gorm, Hugo Daniel Macedo, Cláudio Gomes, Lukas Esterle, Casper Thule, John Fitzgerald, and Kenneth Pierce. “Collaborative Modelling and Co-Simulation in Engineering and Computing Curricula.” In Frontiers in Software Engineering Education, 12271:196–213. Lecture Notes in Computer Science. Cham: Springer International Publishing, 2020. https://doi.org/10.1007/978-3-030-57663-9_13.
+
+  Legaard2020: |
+    Legaard, Christian Møldrup, Cláudio Gomes, Peter Gorm Larsen, and Frederik F. Foldager. “Rapid Prototyping of Self-Adaptive-Systems Using Python Functional Mockup Units.” In Proceedings of the 2020 Summer Simulation Conference, 1–12. SummerSim ’20. Virtual Event, Spain: Society for Computer Simulation Internationa, San Diego, CA, United States, 2020. https://doi.org/10.5555/3427510.3427532.
+
+  Legat2020: |
+    Legat, Benoit, Cláudio Gomes, Paschalis Karalis, Raphael M. Jungers, Eva M. Navarro-Lopez, and Hans Vangheluwe. “Stability of Planar Switched Systems under Delayed Event Detection.” In 2020 59th IEEE Conference on Decision and Control (CDC), 5792–97. Jeju, Korea (South): IEEE, 2020. https://doi.org/10.1109/CDC42340.2020.9304152.
+
+  Legat2020a: |
+    Legat, Benoît, Cláudio Gomes, Paschalis Karalis, Raphaël M. Jungers, Eva M. Navarro-López, and Hans Vangheluwe. “Stability of Planar Switched Systems under Delayed Event Detection.” arXiv:2102.10390 [Cs, Eess], September 9, 2020. http://arxiv.org/abs/2009.04505.
+
+  Thule2020: |
+    Thule, Casper, Cláudio Gomes, and Kenneth Lausdahl. “Formally Verified FMI Enabled Data Broker: RabbitMQ FMU.” In Proceedings of the 2020 Summer Simulation Conference, Pages 1-12. SummerSim ’20. Virtual event: Society for Computer Simulation International, 2020. https://doi.org/10.5555/3427510.3427533.
+
+  Thule2020a: |
+    Thule, Casper, Maurizio Palmieri, Cláudio Gomes, Kenneth Lausdahl, Hugo Daniel Macedo, Nick Battle, and Peter Gorm Larsen. “Towards Reuse of Synchronization Algorithms in Co-Simulation Frameworks.” In Software Engineering and Formal Methods, 12226:50–66. Lecture Notes in Computer Science. Oslo, Norway: Springer International Publishing, 2020. https://doi.org/10.1007/978-3-030-57506-9_5.
+
+2019:
+  Gomes2019d: |
+    Gomes, Cláudio. “Property Preservation in Co-Simulation.” University of Antwerp, 2019. https://repository.uantwerpen.be/docman/irua/57f437/163840.pdf.
+
+  Gomes2019a: |
+    Gomes, Cláudio, Levi Lucio, and Hans Vangheluwe. “Semantics of Co-Simulation Algorithms with Simulator Contracts.” In 2019 ACM/IEEE 22nd International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C), 784–89. Munich, Germany: IEEE, 2019. https://doi.org/10.1109/MODELS-C.2019.00124.
+
+  Gomes2019: |
+    Gomes, Cláudio, Bentley James Oakes, Mehrdad Moradi, Alejandro Torres Gamiz, Juan Carlos Mendo, Stefan Dutre, Joachim Denil, and Hans Vangheluwe. “HintCO - Hint-Based Configuration of Co-Simulations.” In International Conference on Simulation and Modeling Methodologies, Technologies and Applications, 57–68. Prague, Czech Republic, 2019. https://doi.org/10.5220/0007830000570068.
+
+  Gomes2019e: |
+    Gomes, Cláudio, and Hans Vangheluwe. “Co-Simulation of Continuous Systems: A Hands-on Approach.” In 2019 Winter Simulation Conference (WSC), 1469–81. National Harbor, MD, USA: IEEE, 2019. https://doi.org/10.1109/WSC40007.2019.9004704.
+
+  Moradi2019: |
+    Moradi, Mehrdad, Cláudio Gomes, Bentley James Oakes, and Joachim Denil. “Optimizing Fault Injection in FMI Co-Simulation.” In Proceedings of the 2019 Summer Simulation Conference, 12. Berlin, Germany: Society for Computer Simulation International, 2019. https://doi.org/10.5555/3374138.3374170.
+
+  Schweiger2019: |
+    An empirical survey on co-simulation: Promising standards, challenges and research needs
+
+  Thule2019: |
+    Thule, Casper, Kenneth Lausdahl, Cláudio Gomes, Gerd Meisl, and Peter Gorm Larsen. “Maestro: The INTO-CPS Co-Simulation Framework.” Simulation Modelling Practice and Theory 92, no. April (2019): 45–61. https://doi.org/10.1016/j.simpat.2018.12.005.
+
+2018:
+  Cambeiro2018: |
+    Cambeiro, João, Cláudio Gomes, Vasco Amaral, Armanda Rodrigues, and Jácome Cunha. “A Building Automation Case Study - Setup and Challenges.” In 4th International Workshop on Software Engineering for Smart Cyber-Physical Systems, 41–44. Gothenburg, Sweden: ACM New York, NY, USA, 2018.
+
+  Gomes2018d: |
+    Gomes, Cláudio, Raphaël Jungers, Benoît Legat, and Hans Vangheluwe. “Minimally Constrained Stable Switched Systems and Application to Co-Simulation.” Belgium: University of Antwerp, 2018. http://arxiv.org/abs/1809.02648.
+
+  Gomes2018c: |
+    Gomes, Cláudio, Benoît Legat, Raphaël Jungers, and Hans Vangheluwe. “Minimally Constrained Stable Switched Systems and Application to Co-Simulation.” In IEEE Conference on Decision and Control, 5676–81. Miami Beach, FL, USA, 2018. https://doi.org/10.1109/CDC.2018.8619223.
+
+  Gomes2018a: |
+    Gomes, Cláudio, Bart Meyers, Joachim Denil, Casper Thule, Kenneth Lausdahl, Hans Vangheluwe, and Paul De Meulenaere. “Semantic Adaptation for FMI Co-Simulation with Hierarchical Simulators.” SIMULATION 95, no. 3 (2018): 1--29. https://doi.org/10.1177/0037549718759775.
+
+  Gomes2018: |
+    Gomes, Cláudio, Casper Thule, David Broman, Peter Gorm Larsen, and Hans Vangheluwe. “Co-Simulation: A Survey.” ACM Computing Surveys 51, no. 3 (2018): 49:1--49:33. https://doi.org/10.1145/3179993.
+
+  Gomes2018b: |
+    Gomes, Cláudio, Casper Thule, Julien DeAntoni, Peter Gorm Larsen, and Hans Vangheluwe. “Co-Simulation: The Past, Future, and Open Challenges.” In Symposium On Leveraging Applications of Formal Methods, Verification and Validation, Vol. 11246. Lecture Notes in Computer Science. Limassol, Cyprus: Springer Verlag, 2018. https://doi.org/10.1007/978-3-030-03424-5_34.
+
+  Gomes2018e: |
+    Gomes, Cláudio, Casper Thule, Peter Gorm Larsen, Joachim Denil, and Hans Vangheluwe. “Co-Simulation of Continuous Systems: A Tutorial.” Belgium: University of Antwerp, 2018. http://arxiv.org/abs/1809.08463.
+
+  Gomes2018f: |
+    Gomes, Cláudio, Casper Thule, Kenneth Lausdahl, Peter Gorm Larsen, and Hans Vangheluwe. “Stabilization Technique in INTO-CPS.” In 2nd Workshop on Formal Co-Simulation of Cyber-Physical Systems, Vol. 11176. Toulouse, France: Springer, Cham, 2018. https://doi.org/10.1007/978-3-030-04771-9_4.
+
+  Schweiger2018a: |
+    Schweiger, Gerald, Georg Engel, Josef Schoeggl, Irene Hafner, Cláudio Gomes, and Thierry Nouidui. “Co-Simulation - an Empirical Survey: Applications, Recent Developments and Future Challenges.” In Proceedings of the MATHMOD 2018, 125–26. Vienna, Austria: ARGESIM Publisher Vienna, 2018. https://doi.org/10.11128/arep.55.a55286.
+
+  Schweiger2018b: |
+    Schweiger, Gerald, Cláudio Gomes, Georg Engel, Irene Hafner, Josef Schoeggl, Alfred Posch, and Thierry Nouidui. “Functional Mock-up Interface: An Empirical Survey Identifies Research Challenges and Current Barriers.” In Proceedings of the American Modelica Conference, 138–46. Cambridge, MA, USA: Linköping University Electronic Press, Linköpings Universitet, 2018. https://doi.org/10.3384/ecp18154138.
+
+  Schweiger2018: |
+    Schweiger, Gerald, Cláudio Gomes, Irene Hafner, George Engel, Thierry Stephane Nouidui, Niki Popper, and Josef-Peter Schoggl. “Co-Simulation: Leveraging the Potential of Urban Energy System Simulation.” EuroHeat&Power, 2018.
+
+  Thule2018: |
+    Thule, Casper, Cláudio Gomes, Julien Deantoni, Peter Gorm Larsen, Jörg Brauer, and Hans Vangheluwe. “Towards Verification of Hybrid Co-Simulation Algorithms.” In Workshop on Formal Co-Simulation of Cyber-Physical Systems. Toulouse, France: Springer, Cham, 2018. https://doi.org/10.1007/978-3-030-04771-9_1.
+
+2017:
+  VanMierlo2017: |
+    Van Mierlo, Simon, Cláudio Gomes, and Hans Vangheluwe. “Explicit Modelling and Synthesis of Debuggers for Hybrid Simulation Languages.” In Symposium on Theory of Modeling & Simulation: DEVS Integrative M&S Symposium, Article No. 4. DEVS ’17. Virginia Beach, Virginia, USA: Society for Computer Simulation International, 2017.
+
+  Gomes2017a: |
+    Gomes, Cláudio, Yentl Van Tendeloo, Joachim Denil, Paul De Meulenaere, and Hans Vangheluwe. “Hybrid System Modelling and Simulation with Dirac Deltas.” In Proceedings of the Symposium on Theory of Modeling & Simulation: DEVS Integrative M&S Symposium, Article No. 7. DEVS ’17. Virginia Beach, Virginia, USA: Society for Computer Simulation International, 2017.
+
+  Gomes2017b: |
+    Gomes, Cláudio, Yentl Van Tendeloo, Joachim Denil, Paul De Meulenaere, and Hans Vangheluwe. “Hybrid System Modelling and Simulation with Dirac Deltas.” Antwerp: University of Antwerp, February 14, 2017. http://arxiv.org/abs/1702.04274.
+
+  Gomes2017: |
+    Gomes, Cláudio, Casper Thule, David Broman, Peter Gorm Larsen, and Hans Vangheluwe. “Co-Simulation: State of the Art.” University of Antwerp, February 1, 2017. 1702.00686. http://arxiv.org/abs/1702.00686.
+
+  Gomes2017d: |
+    Gomes, Cláudio, Benoît Legat, Raphaël M. Jungers, and Hans Vangheluwe. “Stable Adaptive Co-Simulation: A Switched Systems Approach.” In IUTAM Symposium on Co-Simulation and Solver Coupling, 35:81–97. Darmstadt, Germany: Springer, Cham, 2017. https://doi.org/10.1007/978-3-030-14883-6_5.
+
+  Gomes2017c: |
+    Gomes, Cláudio, Paschalis Karalis, Eva M. Navarro-López, and Hans Vangheluwe. “Approximated Stability Analysis of Bi-Modal Hybrid Co-Simulation Scenarios.” In 1st Workshop on Formal Co-Simulation of Cyber-Physical Systems, 345–60. Trento, Italy: Springer, Cham, 2017. https://doi.org/10.1007/978-3-319-74781-1_24.
+
+2016:
+  Mustafiz2016a: |
+    Mustafiz, Sadaf, Cláudio Gomes, Bruno Barroca, and Hans Vangheluwe. “Modular Design of Hybrid Languages by Explicit Modeling of Semantic Adaptation.” In Proceedings of the Symposium on Theory of Modeling & Simulation: DEVS Integrative M&S Symposium, 29:1--29:8. DEVS ’16. Pasadena, California: IEEE, 2016. https://doi.org/10.23919/TMS.2016.7918835.
+
+  Mustafiz2016: |
+    Mustafiz, Sadaf, Bruno Barroca, Cláudio Gomes, and Hans Vangheluwe. “Towards Modular Language Design Using Language Fragments: The Hybrid Systems Case Study.” In 13th International Conference on Information Technology - New Generations (ITNG), edited by Shahram Latifi, 785–97. Las Vegas, NV USA: Springer, Cham, 2016. https://doi.org/10.1007/978-3-319-32467-8_68.
+
+  Lawrence2016: |
+    Lawrence, David P. Y., Cláudio Gomes, Joachim Denil, Hans Vangheluwe, and Didier Buchs. “Coupling Petri Nets with Deterministic Formalisms Using Co-Simulation.” In Symposium on Theory of Modeling & Simulation: DEVS Integrative M&S Symposium, 6:1--6:8. Pasadena, CA, USA, 2016.
+
+  Gomes2016a: |
+    Gomes, Cláudio, Joachim Denil, and Hans Vangheluwe. “Causal-Block Diagrams.” University of Antwerp, 2016. http://msdl.cs.mcgill.ca/people/claudio/pub/Gomes2016a.pdf.
+
+  Gomes2016: |
+    Gomes, Cláudio. “Foundations for Continuous Time Hierarchical Co-Simulation.” In ACM Student Research Competition (MoDELS). Saint Malo, France: ACM New York, NY, USA, 2016.
+
+2015:
+  Gomes2015a: |
+    Gomes, Cláudio. “Foundations for Co-Simulation -- IWT Proposal.” Antwerp: University of Antwerp, 2015.
+
+  Gomes2015: |
+    Gomes, Cláudio, Bruno Barroca, and Vasco Amaral. “TrNet: A Language and for Efficient and Analysable Model Transformations.” Technical Report, 2015.
+
+  Lucio2015: |
+    Lúcio, Levi, Bentley James Oakes, Cláudio Gomes, Gehan Selim, Juergen Dingel, James R. Cordy, and Hans Vangheluwe. “SyVOLT: Full Model Transformation Verification Using Contracts.” In 8th International Conference on Model Driven Engineering Languages and Systems - Demo, 6019–6635. Ottawa, Canada: Springer International Publishing, 2015.
+
+2014:
+  Gomes2014: |
+    Gomes, Cláudio, Bruno Barroca, and Vasco Amaral. “Classification of Model Transformation Tools: Pattern Matching Techniques.” In Model-Driven Engineering Languages and Systems, edited by Juergen Dingel, Wolfram Schulte, Isidro Ramos, Silvia Abrahão, and Emilio Insfran, Vol. 8767. Lecture Notes in Computer Science. Springer International Publishing, 2014. https://doi.org/10.1007/978-3-319-11653-2_38.
+
+  Gomes2014a: |
+    Gomes, Cláudio. “A Framework for Efficient Model Transformations.” Master Thesis, New University of Lisbon, 2014.
