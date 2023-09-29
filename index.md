@@ -14,26 +14,17 @@ My research interests are focused on two main areas: **co-simulation** and the *
 Please find my CV here: [**[pdf]**](./assets/cv/cv_claudio.pdf)
 
 ## Co-simulation
-Modeling and simulation techniques have enabled companies to diagnose and solve problems before any expensive prototypes are built. But with the increase in complexity of cyber physical systems, companies have to divide and conquer: they have to develop different components concurrently and they have to do business with specialized suppliers. Now it becomes harder to develop systems first time right because different teams will use different tools to build their models and the suppliers will not be willing to give away detailed models in order to protect their intellectual property.
+Modeling and simulation techniques have empowered companies to diagnose and resolve issues even before costly prototypes are constructed. However, with the growing complexity of cyber-physical systems, companies face the need to adopt a divide-and-conquer approach. They must simultaneously develop different components while engaging with specialized suppliers. This makes it increasingly challenging to achieve the "first time right" in system development, as various teams employ different tools to construct their models, and suppliers are reluctant to share detailed models to protect their intellectual property.
 
-A solution is to establish a common interface that allows multiple simulation tools to talk to each other without revealing the details of the models being simulated. This is co-simulation, my main research interest. From an academic point-of-view, co-simulation presents a unique set of research challenges that span mostly from the fact the connecting different simulators (of different formalisms) together amounts to create an ad-hoc hybrid modeling language. It is well known that simulation of dynamic systems can only be an approximation of the exact behaviour described in the differential equations. When coupling dynamic systems simulators, how can we trust the results? How accurate are these?
+One solution is to establish a common interface that facilitates communication among multiple simulation tools without disclosing the specifics of the simulated models. This solution is known as co-simulation, which happens to be my primary research interest. From an academic perspective, co-simulation presents a distinct set of research challenges, primarily stemming from the necessity of connecting simulators of different formalisms, resulting in the creation of an ad-hoc hybrid modeling language. It is a widely recognized fact that the simulation of dynamic systems can only provide an approximation of the exact behavior described by differential equations. When coupling dynamic system simulators, questions arise regarding the reliability and accuracy of the results. How can we place trust in these results? How accurate are they?
 
 ## Engineering of Digital Twins
 
-Modern Cyber-Physical Systems (CPS) are often deployed in environments that cannot be reproduced in laboratory conditions, for periods of time that largely exceed the time available for experimentation.
-When faced with unforeseen environments, the CPS must not fail or harm its surroundings.
-During the development of the CPS, a large body of knowledge is generated in the form of models and experimental results, *that is currently not being put to use after the CPS is deployed*.
+Modern Cyber-Physical Systems (CPS) are frequently deployed in environments that cannot be replicated in laboratory conditions, often for durations far exceeding the available experimentation time. When encountering unforeseen environments, CPS must avoid failure or causing harm to their surroundings. Throughout CPS development, a substantial body of knowledge is generated in the form of models and experimental results, but unfortunately, *this knowledge often goes unused once the CPS is deployed*.
 
-I envision that every CPS will eventually come with its own Digital Twin (DT).
-The DT is a virtual system that represents a CPS -- its Physical Twin (PT) -- that continuously collects data about the PT and its environment, correlates it with the models of the PT, and provides services such as anomaly detection and self-adaptation.
-The DT is thus crucial in mitigating the effects of unforeseen environments.
+I envision that each CPS will eventually incorporate its Digital Twin (DT). The DT is a virtual representation of a CPS, known as its Physical Twin (PT). It continually collects data about the PT and its environment, correlates it with PT models, and offers services such as anomaly detection and self-adaptation. The DT plays a pivotal role in mitigating the impact of unexpected environments.
 
-DTs will be *open ended*, that is, they will allow new services to be added by different stakeholders throughout the lifetime of the PT.
-DT services and their interaction will be formally verified, and thus *dependable*.
-They will be used/extended by stakeholders with *conflicting interests*: 
-operators of the CPS, who are interested in, e.g., preventing down-time; and manufacturers, who are interested in learning about the CPS environment to improve subsequent products.
-For example, the manufacturer should not be able to infer the detailed control actions of the CPS, for that is the operator's Intellectual Property (IP).
-DTs will therefore accommodate different viewpoints of the PT, with IP being preserved by design.
-*Self-adaptations* will be rehearsed and formally verified by the DT before being carried out in real life.
-As systems of systems, DTs will be created from the *composition* of other DTs.
+DTs will be open-ended, allowing new services to be added by various stakeholders throughout the PT's lifecycle. DT services and their interactions will undergo formal verification, ensuring their reliability. These services will cater to stakeholders with differing interests, including CPS operators focused on preventing downtime and manufacturers seeking to enhance future products through CPS environment insights. For instance, the manufacturer should not gain access to the detailed control actions of the CPS, as this constitutes the operator's Intellectual Property (IP). DTs will, therefore, accommodate various perspectives of the PT while safeguarding IP through design.
+
+Self-adaptations will be practiced and formally verified by the DT before implementation in real-world scenarios. As systems of systems, DTs will be constructed through the composition of other DTs.
 
