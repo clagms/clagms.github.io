@@ -11,7 +11,10 @@ layout: home
 
 My research interests are focused on two main areas: **co-simulation** and the **engineering of digital twins**.
 
-Please find my CV here: [**[pdf]**](./assets/cv/cv_claudio.pdf)
+Download my [CV(pdf)](./assets/cv/cv_claudio.pdf).
+
+For events and news, consult my <a href="https://pure.au.dk/portal/en/claudio.gomes@ece.au.dk" target="_blank">Aarhus University</a> page.
+
 
 ## Co-simulation
 Modeling and simulation techniques have empowered companies to diagnose and resolve issues even before costly prototypes are constructed. However, with the growing complexity of cyber-physical systems, companies face the need to adopt a divide-and-conquer approach. They must simultaneously develop different components while engaging with specialized suppliers. This makes it increasingly challenging to achieve the "first time right" in system development, as various teams employ different tools to construct their models, and suppliers are reluctant to share detailed models to protect their intellectual property.
