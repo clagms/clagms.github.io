@@ -1,31 +1,22 @@
 2023:
 
-  # Bogomolov2023: |
-  #   Bogomolov, Sergiy, Cláudio Gomes, Carlos Isasa, Sadegh Soudjani, Paulius Stankaitis, and Thomas Wright. “Reachability Analysis of FMI Models Using Data-Driven Dynamic Sensitivity.” SIMULATION, Special Issue: Engineering of Dependable Digital Twins, 2023, submitted.
-
-  # Buhagiar2023: |
-  #   Buhagiar, Aaron John, Rikke Fanøe, Peter Gorm Larsen, William E. Scott, Leo Freitas, Thomas Nielsen, and Cláudio Gomes. “Understanding Pancreas-Machine Interactions during Preservation: A Mathematical Approach,” 2023.
+  Talasila2023: |
+    Talasila, Prasad, Cláudio Gomes, Peter Høgh Mikkelsen, Santiago Gil Arboleda, Eduard Kamburjan, and Peter Gorm Larsen. ‘Digital Twin as a Service (DTaaS): A Platform for Digital Twin Developers and Users’, to appear, 2023. http://arxiv.org/abs/2305.07244.
 
   Loper2023: |
     Loper, Margaret L., Tuncer Ören, Cláudio Gomes, Valdemar Vicente Graciano Neto, and Ernest H. Page. “Infrastructure.” In Body of Knowledge for Modeling and Simulation, edited by Tuncer Ören, Bernard P. Zeigler, and Andreas Tolk, 149–65. Simulation Foundations, Methods and Applications. Cham: Springer International Publishing, 2023. https://doi.org/10.1007/978-3-031-11085-6_6.
 
-  Abbiati2023: |
-    Abbiati, Giuseppe, Ecem E. Baş, Cláudio Gomes, and Peter Gorm Larsen. “Hybrid Fire Testing Using FMI-Based Co-Simulation.” Fire Safety Journal 139 (August 2023): 103832. https://doi.org/10.1016/j.firesaf.2023.103832.
-
-  Alfalouji2023: |
-    Alfalouji, Qamar, Thomas Schranz, Basak Falay, Sandra Wilfling, Johannes Exenberger, Thorsten Mattausch, Cláudio Gomes, and Gerald Schweiger. “Co-Simulation for Buildings and Smart Energy Systems — A Taxonomic Review.” Simulation Modelling Practice and Theory 126 (July 2023): 102770. https://doi.org/10.1016/j.simpat.2023.102770.
-
   Bottjer2023: |
     Böttjer, Till, Daniella Tola, Fatemeh Kakavandi, Christian R. Wewer, Devarajan Ramanujan, Cláudio Gomes, Peter G. Larsen, and Alexandros Iosifidis. “A Review of Unit Level Digital Twin Applications in the Manufacturing Industry.” CIRP Journal of Manufacturing Science and Technology 45 (October 2023): 162–89. https://doi.org/10.1016/j.cirpj.2023.06.011.
 
-  Frasheri2023: |
-    Frasheri, Mirgita, Henrik Ejersbo, Casper Thule, Cláudio Gomes, Jakob Levisen Kvistgaard, Peter Gorm Larsen, and Lukas Esterle. “Addressing Time Discrepancy between Digital and Physical Twins.” Robotics and Autonomous Systems, Software Engineering for Robotics, Volume 161, no. March 2023, 104347 (2023): to appear. https://doi.org/10.1016/j.robot.2022.104347.
+  Abbiati2023: |
+    Abbiati, Giuseppe, Ecem E. Baş, Cláudio Gomes, and Peter Gorm Larsen. “Hybrid Fire Testing Using FMI-Based Co-Simulation.” Fire Safety Journal 139 (August 2023): 103832. https://doi.org/10.1016/j.firesaf.2023.103832.
 
-  Hansen2023: |
-    Hansen, Simon Thrane, Cláudio Gomes, and Zahra Kazemi. “Synthesizing Orchestration Algorithms for FMI 3.0.” In 2023 Annual Modeling and Simulation Conference, 184–95. Ontario, Canada, 2023.
+  # Buhagiar2023: |
+  #   Buhagiar, Aaron John, Rikke Fanøe, Peter Gorm Larsen, William E. Scott, Leo Freitas, Thomas Nielsen, and Cláudio Gomes. “Understanding Pancreas-Machine Interactions during Preservation: A Mathematical Approach,” 2023.
 
-  Inci2023: |
-    Inci, Emin Oguz, Cláudio Gomes, Jan Croes, and Wim Desmet. “Error Estimators for Adaptive Scheduling Algorithm for Serial Co-Simulation.” In Annual Modelling and Simulation Conference, 73–83. Ontario, Canada, 2023.
+  Alfalouji2023: |
+    Alfalouji, Qamar, Thomas Schranz, Basak Falay, Sandra Wilfling, Johannes Exenberger, Thorsten Mattausch, Cláudio Gomes, and Gerald Schweiger. “Co-Simulation for Buildings and Smart Energy Systems — A Taxonomic Review.” Simulation Modelling Practice and Theory 126 (July 2023): 102770. https://doi.org/10.1016/j.simpat.2023.102770.
 
   Kakavandi2023: |
     Kakavandi, Fatemeh, Cláudio Gomes, Roger De Reus, Jeppe Badstue, Jakob Langdal Jensen, Peter Gorm Larsen, and Alexandros Iosifidis. “Towards Developing a Digital Twin for a Manufacturing Pilot Line: An Industrial Case Study.” In Digital Twin Driven Intelligent Systems and Emerging Metaverse, 39–64. Singapore: Springer Nature Singapore, 2023. https://doi.org/10.1007/978-981-99-0252-1_2.
@@ -33,8 +24,20 @@
   Naseri2023: |
     Naseri, Farshid, Santiago Gil, Corneliu Barbu, Erdal Cetkin, Gulsah Yarimca, Anders Jensen, Peter Gorm Larsen, and Cláudio Gomes. “Digital Twin of Electric Vehicle Battery Systems: Comprehensive Review of the Use Cases, Requirements, and Platforms.” Renewable and Sustainable Energy Reviews 179 (2023): 113280. https://doi.org/10.1016/j.rser.2023.113280.
 
+  Bogomolov2023: |
+    Bogomolov, Sergiy, Cláudio Gomes, Carlos Isasa, Sadegh Soudjani, Paulius Stankaitis, and Thomas Wright. “Reachability Analysis of FMI Models Using Data-Driven Dynamic Sensitivity.” SIMULATION, Special Issue: Engineering of Dependable Digital Twins, 2023, submitted.
+
+  Inci2023: |
+    Inci, Emin Oguz, Cláudio Gomes, Jan Croes, and Wim Desmet. “Error Estimators for Adaptive Scheduling Algorithm for Serial Co-Simulation.” In Annual Modelling and Simulation Conference, 73–83. Ontario, Canada, 2023.
+
   Oakes2023: |
     Oakes, Bentley, Cláudio Gomes, Peter Gorm Larsen, Joachim Denil, Julien DeAntoni, João Cambeiro, and John Fitzgerald. “Examining Model Qualities and Their Impact on Digital Twins.” In Annual Modelling and Simulation Conference, 220–32. Ontario, Canada, 2023.
+
+  Hansen2023: |
+    Hansen, Simon Thrane, Cláudio Gomes, and Zahra Kazemi. “Synthesizing Orchestration Algorithms for FMI 3.0.” In 2023 Annual Modeling and Simulation Conference, 184–95. Ontario, Canada, 2023.
+
+  Frasheri2023: |
+    Frasheri, Mirgita, Henrik Ejersbo, Casper Thule, Cláudio Gomes, Jakob Levisen Kvistgaard, Peter Gorm Larsen, and Lukas Esterle. “Addressing Time Discrepancy between Digital and Physical Twins.” Robotics and Autonomous Systems, Software Engineering for Robotics, Volume 161, no. March 2023, 104347 (2023): to appear. https://doi.org/10.1016/j.robot.2022.104347.
 
 2022:
   Esterle2022: |
