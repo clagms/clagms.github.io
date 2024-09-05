@@ -15,6 +15,13 @@ Download my [CV(pdf)](./assets/cv/cv_claudio.pdf).
 
 For events and news, consult my <a href="https://pure.au.dk/portal/en/claudio.gomes@ece.au.dk" target="_blank">Aarhus University</a> page.
 
+## Biography
+
+Cláudio Gomes received the B.Sc. and M.Sc. degrees in Computer Science from the New University of Lisbon in 2013, where he graduated with honors. He earned his Ph.D. in Computer Science from the University of Antwerp in 2019, focusing on property preservation in co-simulation. Since 2022, he has been an Assistant Professor at the Department of Electrical and Computer Engineering, Aarhus University, Denmark. From 2020 to 2022, he was a Postdoctoral Researcher at the same institution, following a brief tenure as a Visiting Researcher at Carnegie Mellon University in 2019.
+
+Prof. Gomes's research interests include co-simulation, digital twin engineering, and machine learning for digital twins. He has played pivotal roles in multiple high-profile European and national projects, such as ROBOSAPIENS, DLTE, and DIGIT-BENCH, serving as a co-coordinator and principal investigator. His work has garnered recognition, including the Runner-Up Best Paper Award at the ANNSIM Conference in 2023 and the Best Paper Award at the SIMULTECH conference in 2019.
+
+Prof. Gomes has contributed extensively to the academic community, co-authoring numerous journal articles and conference papers. He has supervised multiple Ph.D., M.Sc., and B.Sc. students and has been actively involved in organizing workshops, serving on program committees, and guest-editing special issues in top journals. His contributions to the field are reflected in his ongoing editorial roles and his active participation in conferences such as RIVF, ANNSIM, Isola, and EDTConf. His current research focuses on the application of digital twins in various engineering domains and the development of methodologies for co-simulation.
 
 ## Co-simulation
 Modeling and simulation techniques have empowered companies to diagnose and resolve issues even before costly prototypes are constructed. However, with the growing complexity of cyber-physical systems, companies face the need to adopt a divide-and-conquer approach. They must simultaneously develop different components while engaging with specialized suppliers. This makes it increasingly challenging to achieve the "first time right" in system development, as various teams employ different tools to construct their models, and suppliers are reluctant to share detailed models to protect their intellectual property.
