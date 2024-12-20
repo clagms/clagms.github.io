@@ -1,4 +1,16 @@
 2024:
+  Kristensen2024: |
+    Kristensen, Morten Haahr, Alberto Bonizzi, Cláudio Gomes, Simon Thrane Hansen, Carlos Isasa, Hannes Iven, Eduard Kamburjan, et al. “Runtime Verification of Autonomous Systems Utilizing Digital Twins as a Service.” In 2024 IEEE International Conference on Autonomic Computing and Self-Organizing Systems Companion (ACSOS-C), 121–27, 2024. https://doi.org/10.1109/ACSOS-C63493.2024.00042.
+
+  Larsen2024: |
+    Larsen, Peter G., Shaukat Ali, Roland Behrens, Ana Cavalcanti, Cláudio Gomes, Guoyuan Li, Paul De Meulenaere, et al. “Robotic Safe Adaptation in Unprecedented Situations: The RoboSAPIENS Project.” Research Directions: Cyber-Physical Systems 2 (2024): e4. https://doi.org/10.1017/cbp.2024.4.
+
+  Talasila2024: |
+    Talasila, Prasad, Cláudio Gomes, Lars B Vosteen, Hannes Iven, Martin Leucker, Santiago Gil, Peter H Mikkelsen, Eduard Kamburjan, and Peter G Larsen. “Composable Digital Twins on Digital Twin as a Service Platform.” SIMULATION, December 1, 2024, 00375497241298653. https://doi.org/10.1177/00375497241298653.
+
+  Tang2024: |
+    Tang, Valdemar, Cláudio Gomes, and Daniel E. Lucani. “Precision on Demand: Propositional Logic for Event-Trigger Threshold Regulation.” IEEE Internet of Things Journal, 2024, 1–1. https://doi.org/10.1109/JIOT.2024.3476922.
+
   Fitzgerald2024: |
     Fitzgerald, John, Cláudio Gomes, and Peter Gorm Larsen, eds. The Engineering of Digital Twins. Cham: Springer International Publishing, 2024. https://doi.org/10.1007/978-3-031-66719-0.
   
@@ -6,10 +18,10 @@
     Nordtorp, F., E. E. Baş, Cláudio Gomes, and G. Abbiati. “A Hybrid Testing Framework for Wind Turbine Mechanical Components.” Journal of Physics: Conference Series 2767, no. 5 (June 1, 2024): 052046. https://doi.org/10.1088/1742-6596/2767/5/052046.
   
   David2024: |
-    David, Istvan, Guodong Shao, Cláudio Gomes, Dawn M. Tilbury, and Bassam Zarkout. “Interoperability of Digital Twins: Challenges, Success Factors, and Future Research Directions.” In Leveraging Applications of Formal Methods, Verification and Validation: Tools and Trends, to appear. Crete, Greece: Springer International Publishing, 2024.
+    David, Istvan, Guodong Shao, Cláudio Gomes, Dawn M. Tilbury, and Bassam Zarkout. “Interoperability of Digital Twins: Challenges, Success Factors, and Future Research Directions.” In Leveraging Applications of Formal Methods, Verification and Validation: Tools and Trends, 15223:27–46. Crete, Greece: Springer Nature Switzerland, 2024. https://doi.org/10.1007/978-3-031-75390-9_3.
 
   Oakes2024: |
-    Oakes, Bentley, Cláudio Gomes, Giuseppe Abbiati, Eduard Kamburjan, Ecem E. Baş, and Sebastian Engelsgaard. “Towards Ontological Service-Driven Engineering of Digital Twins.” Linz, Austria: to appear, 2024.
+    Oakes, Bentley, Cláudio Gomes, Eduard Kamburjan, Giuseppe Abbiati, Elif Ecem Bas, and Sebastian Engelsgaard. “Towards Ontological Service-Driven Engineering of Digital Twins.” In Proceedings of the ACM/IEEE 27th International Conference on Model Driven Engineering Languages and Systems, 464–69. MODELS Companion ’24. New York, NY, USA: Association for Computing Machinery, 2024. https://doi.org/10.1145/3652620.3688261.
 
   Gil2024a: |
     Gil, Santiago, Bentley J Oakes, Cláudio Gomes, Mirgita Frasheri, and Peter G Larsen. “Toward a Systematic Reporting Framework for Digital Twins: A Cooperative Robotics Case Study.” SIMULATION, August 2, 2024, 00375497241261406. https://doi.org/10.1177/00375497241261406.

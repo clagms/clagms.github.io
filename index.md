@@ -13,6 +13,8 @@ My research interests are focused on two main areas: **co-simulation** and the *
 
 Download my [CV(pdf)](./assets/cv/cv_claudio.pdf).
 
+See my <a href="#publications">publications</a> below.
+
 For events and news, consult my <a href="https://pure.au.dk/portal/en/claudio.gomes@ece.au.dk" target="_blank">Aarhus University</a> page.
 
 ## Biography  
