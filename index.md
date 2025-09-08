@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img src="https://pure.au.dk/portal/files/179044902/Foto_low.jpg" alt="Cláudio Ângelo Gonçalves Gomes" class="view_person_photo">
+<img src="/assets/Foto_low.jpg" alt="Cláudio Ângelo Gonçalves Gomes" class="view_person_photo">
 
 # Profile and Research Interests
 
