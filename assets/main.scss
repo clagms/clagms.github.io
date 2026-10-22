@@ -4,6 +4,10 @@
 
 @import "minima";
 
+:root {
+  color-scheme: light;
+}
+
 img.view_person_photo
 {
 	float: right;
@@ -62,5 +66,96 @@ a.pdflink
     p:last-child {
       margin-bottom: 0;
     }
+  }
+}
+
+// Follow the visitor's system preference, including changes while the page is open.
+@media screen and (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+  }
+
+  body {
+    color: #e6e8eb;
+    background-color: #17191c;
+  }
+
+  a,
+  .publication-abstract summary,
+  .toggle-abstracts {
+    color: #8ab4f8;
+  }
+
+  a:visited {
+    color: #c4a7e7;
+  }
+
+  a:hover,
+  .site-title,
+  .site-title:visited,
+  .site-nav .page-link {
+    color: #e6e8eb;
+  }
+
+  .site-header,
+  .site-footer,
+  .site-nav,
+  blockquote,
+  pre,
+  code,
+  table,
+  table th,
+  table td,
+  .toggle-abstracts,
+  .publication-abstract .publication-abstract-text {
+    border-color: #454b55;
+  }
+
+  .site-nav {
+    background-color: #17191c;
+  }
+
+  .footer-col-wrapper,
+  .post-meta,
+  blockquote {
+    color: #b0b6bf;
+  }
+
+  .svg-icon,
+  .site-nav .menu-icon > svg {
+    fill: #b0b6bf;
+  }
+
+  .toggle-abstracts,
+  .publication-abstract .publication-abstract-text,
+  pre,
+  code,
+  .highlight,
+  .highlighter-rouge .highlight,
+  table tr:nth-child(even) {
+    background: #23272e;
+  }
+
+  .toggle-abstracts:hover,
+  table th {
+    background: #303640;
+  }
+
+  .toggle-abstracts:focus-visible {
+    outline-color: #8ab4f8;
+  }
+
+  table {
+    color: #e6e8eb;
+  }
+
+  img.view_person_photo {
+    border-color: #454b55;
+    box-shadow: 0 2px 3px #101114;
+  }
+
+  // Keep the black QR modules and their quiet zone readable for scanners.
+  img[src$="qrcode_contact.svg"] {
+    background: #fff;
   }
 }
