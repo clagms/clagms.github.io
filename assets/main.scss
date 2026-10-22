@@ -23,3 +23,24 @@ a.pdflink
 	font-family: Lucida Console;
 	font-weight: bold;
 }
+
+.publication-abstract {
+  margin: 0.35rem 0 0.9rem;
+
+  summary {
+    color: $brand-color;
+    cursor: pointer;
+    width: fit-content;
+  }
+
+  .publication-abstract-text {
+    margin-top: 0.5rem;
+    padding: 0.75rem 1rem;
+    background: #f7f7f7;
+    border-left: 3px solid #ddd;
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+}

@@ -16,7 +16,17 @@ layout: default
       <h2>{{ year_pubs[0] }}</h2>
       <ul>
         {%- for pub in year_pubs[1] -%}
-          <li><a href="/assets/pdfs/{{ pub[0] }}.pdf" class="pdflink" target="_blank">[PDF]</a>  {{ pub[1] | escape }}</li>
+          <li>
+            <a href="/assets/pdfs/{{ pub[0] }}.pdf" class="pdflink" target="_blank">[PDF]</a>  {{ pub[1] | escape }}
+            {%- assign publication_id = pub[0] -%}
+            {%- assign abstract = site.data.abstracts[publication_id] -%}
+            {%- if abstract -%}
+              <details class="publication-abstract">
+                <summary>Abstract</summary>
+                <div class="publication-abstract-text"><p>{{ abstract | escape }}</p></div>
+              </details>
+            {%- endif -%}
+          </li>
         {%- endfor -%}
       </ul>
     {%- endfor -%}
