@@ -11,6 +11,7 @@ layout: default
 
   {%- if site.data.publications.size > 0 -%}
     <h1 id="publications">Publications</h1>
+    <button type="button" id="toggle-abstracts" class="toggle-abstracts" aria-expanded="false" hidden>Show all abstracts</button>
     
     {%- for year_pubs in site.data.publications -%}
       <h2>{{ year_pubs[0] }}</h2>
@@ -33,3 +34,28 @@ layout: default
   {%- endif -%}
 
 </div>
+
+<script>
+  (function () {
+    var button = document.getElementById('toggle-abstracts');
+    var abstracts = Array.from(document.querySelectorAll('.home .publication-abstract'));
+    if (!button || abstracts.length === 0) return;
+
+    function updateButton() {
+      var allOpen = abstracts.every(function (abstract) { return abstract.open; });
+      button.textContent = allOpen ? 'Hide all abstracts' : 'Show all abstracts';
+      button.setAttribute('aria-expanded', String(allOpen));
+    }
+
+    button.hidden = false;
+    button.addEventListener('click', function () {
+      var shouldOpen = !abstracts.every(function (abstract) { return abstract.open; });
+      abstracts.forEach(function (abstract) { abstract.open = shouldOpen; });
+      updateButton();
+    });
+    abstracts.forEach(function (abstract) {
+      abstract.addEventListener('toggle', updateButton);
+    });
+    updateButton();
+  }());
+</script>

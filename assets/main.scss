@@ -24,6 +24,26 @@ a.pdflink
 	font-weight: bold;
 }
 
+.toggle-abstracts {
+  margin-bottom: 1rem;
+  padding: 0.4rem 0.75rem;
+  font: inherit;
+  color: $brand-color;
+  background: #f7f7f7;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+
+  &:hover {
+    background: #eee;
+  }
+
+  &:focus-visible {
+    outline: 2px solid $brand-color;
+    outline-offset: 2px;
+  }
+}
+
 .publication-abstract {
   margin: 0.35rem 0 0.9rem;
 
