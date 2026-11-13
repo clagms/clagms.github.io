@@ -6,6 +6,12 @@
     Kristensen, Morten Haahr, Thomas Wright, Mirgita Frasheri, Cláudio Gomes, Peter Gorm Larsen, and Lukas Esterle. 2027. “DSRV: Reconfigurable Stream Runtime Verification with Context Transfers.” In Runtime Verification, edited by Sean Kauffman and Giulia Pedrielli, 104–122. Lecture Notes in Computer Science 17117. Cham: Springer Nature Switzerland. https://doi.org/10.1007/978-3-032-41160-0_7.
 
 2026:
+  Evans2025: |
+    Evans, Valdemar Tang, Claudio Gomes, and Daniel Lucani. 2026. “When Every Transmission Counts: Event-Trigger Threshold Regulation for STL Properties.” IEEE Internet of Things Journal 13, no. 4 (February 15): 7040–7051. https://doi.org/10.1109/JIOT.2025.3637893.
+
+  Gil2025: |
+    Gil, Santiago, Ecem E. Baş, Christian D. Jensen, Sebastian Engelsgaard, Giuseppe Abbiati, and Cláudio Gomes. 2026. “FMI-Based Distributed Co-Simulation with Enhanced Security and Intellectual Property Safeguards.” In Proceedings of the 2025 Annual Modeling and Simulation Conference, article 17, 1–6. ANNSIM ’25. Association for Computing Machinery, April 26. https://doi.org/10.22360/ANNSIM.2025.CPS+DT.21.
+
   Sartaj2026: |
     Sartaj, Hassan, Shaukat Ali, Ana Cavalcanti, Lukas Esterle, Cláudio Gomes, Peter Gorm Larsen, Anastasios Tefas, Jim Woodcock, and Houxiang Zhang. 2026. “Software Engineering for Self-Adaptive Robotics: A Research Agenda.” ACM Transactions on Software Engineering and Methodology 35, no. 9: article 276, 1–44. https://doi.org/10.1145/3828754.
 
@@ -25,7 +31,7 @@
     Thrue, Emil Dalgas, Arman Fathollahi, Claudio Gomes, and Björn Andresen. 2026. “Digital Twin Design and Experimental Validation of Step-Down DC/DC Converters in Power-to-Hydrogen Systems.” In 2026 8th Global Power, Energy and Communication Conference (GPECOM), 120–125. IEEE. https://doi.org/10.1109/GPECOM70462.2026.11578715.
 
   Wright2026: |
-    Wright, Thomas, Morten Haahr Kristensen, Mirgita Frasheri, Peter Gorm Larsen, Lukas Esterle, and Cláudio Gomes. 2026. “Self-Adaptive Distributed Runtime Monitoring for Autonomous Systems.” In 2026 IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS). IEEE. Forthcoming. https://2026.acsos.org/track/acsos-2026-papers.
+    Wright, Thomas, Morten Haahr Kristensen, Mirgita Frasheri, Peter Gorm Larsen, Lukas Esterle, and Cláudio Gomes. 2026. “Self-Adaptive Distributed Runtime Monitoring for Autonomous Systems.” In 2026 IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS), 242–252. IEEE, September. https://doi.org/10.1109/ACSOS69738.2026.00038.
 
   Gil2026: |
     Gil, Santiago, Alvaro Miyazawa, Ana Cavalcanti, and Cláudio Gomes. 2026. “Application of FMI 3.0 Synchronous Clocks to Co-Simulation of Robotic Systems.” 2026 IEEE/SICE International Symposium on System Integration (SII), January 11, 1548–53. https://doi.org/10.1109/SII64115.2026.11404501.
@@ -34,21 +40,27 @@
     Biglari, Raheleh, Joachim Denil, and Cláudio Gomes. 2026. “Validity Frames for Self-Adaptive Systems.” Proceedings of the 14th International Conference on Model-Based Software and Systems Engineering, 434-41. https://doi.org/10.5220/0014461300004058.
   
   Kristensen2026: |
-    Kristensen, Morten Haahr, Thomas Wright, Cláudio Gomes, Lukas Esterle, and Peter Gorm Larsen. 2026. “DynSRV: Dynamically Updated Properties for Stream Runtime Verification.” In Runtime Verification, edited by Bettina Könighofer and Hazem Torfah. Springer Nature Switzerland. https://doi.org/10.1007/978-3-032-05435-7_7.
+    Kristensen, Morten Haahr, Thomas Wright, Cláudio Gomes, Lukas Esterle, and Peter Gorm Larsen. 2026. “DynSRV: Dynamically Updated Properties for Stream Runtime Verification.” In Runtime Verification, edited by Bettina Könighofer and Hazem Torfah, 101–119. Springer Nature Switzerland. https://doi.org/10.1007/978-3-032-05435-7_7.
 
   Isasa2026: |
-    Isasa, Carlos, Noah Abou El Wafa, Claudio Gomes, Peter Gorm Larsen, and André Platzer. 2026. “Safe Temperature Regulation: Formally Verified and Real-World Validated.” In Integrated Formal Methods, edited by Ferruccio Damiani and Marie Farrell, vol. 16194. Lecture Notes in Computer Science. Springer Nature Switzerland. https://doi.org/10.1007/978-3-032-10794-7_8.
+    Isasa, Carlos, Noah Abou El Wafa, Claudio Gomes, Peter Gorm Larsen, and André Platzer. 2026. “Safe Temperature Regulation: Formally Verified and Real-World Validated.” In Integrated Formal Methods, edited by Ferruccio Damiani and Marie Farrell, 143–161. Vol. 16194. Lecture Notes in Computer Science. Springer Nature Switzerland. https://doi.org/10.1007/978-3-032-10794-7_8.
 
   Frasheri2026: |
-    Frasheri, Mirgita, Cláudio Gomes, Lukas Esterle, and Peter Gorm Larsen. 2026. “Obtaining Services from Digital Twins in Industrial Settings.” In Handbook of the Metaverse, edited by Pan Hui, Peng Yuan Zhou, Lik-Hang Lee, and Tristan Braud. Springer Nature Switzerland. https://doi.org/10.1007/978-3-032-03296-6_9.
+    Frasheri, Mirgita, Cláudio Gomes, Lukas Esterle, and Peter Gorm Larsen. 2026. “Obtaining Services from Digital Twins in Industrial Settings.” In Handbook of the Metaverse, edited by Pan Hui, Peng Yuan Zhou, Lik-Hang Lee, and Tristan Braud, 283–315. Springer Nature Switzerland. https://doi.org/10.1007/978-3-032-03296-6_9.
 
 2025:
+  Tang2024: |
+    Tang, Valdemar, Cláudio Gomes, and Daniel E. Lucani. 2025. “Precision on Demand: Propositional Logic for Event-Trigger Threshold Regulation.” IEEE Internet of Things Journal 12, no. 3 (February 1): 2674–2689. https://doi.org/10.1109/JIOT.2024.3476922.
+
+  Talasila2024: |
+    Talasila, Prasad, Cláudio Gomes, Lars B Vosteen, Hannes Iven, Martin Leucker, Santiago Gil, Peter H Mikkelsen, Eduard Kamburjan, and Peter G Larsen. 2025. “Composable Digital Twins on Digital Twin as a Service Platform.” SIMULATION 101, no. 3 (March): 287–311. https://doi.org/10.1177/00375497241298653.
+
+  Gil2024a: |
+    Gil, Santiago, Bentley J Oakes, Cláudio Gomes, Mirgita Frasheri, and Peter G Larsen. 2025. “Toward a Systematic Reporting Framework for Digital Twins: A Cooperative Robotics Case Study.” SIMULATION 101, no. 3 (March): 313–339. https://doi.org/10.1177/00375497241261406.
+
 
   Andersen2025: |
     Andersen, Mikkel Schmidt, Cláudio Gomes, Sophia Thompson, and Peter Gorm Larsen. 2025. “Probabilistic Update Scheduling for Digital Twins: A Semi-Markov Approach.” 2025 ACM/IEEE 28th International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C), October, 250–56. https://doi.org/10.1109/MODELS-C68889.2025.00043.
-
-  Evans2025: |
-    Evans, Valdemar Tang, Claudio Gomes, and Daniel Lucani. 2025. “When Every Transmission Counts: Event-Trigger Threshold Regulation for STL Properties.” IEEE Internet of Things Journal, 1–1. https://doi.org/10.1109/JIOT.2025.3637893.
 
   Biglari2025: |
     Biglari, Raheleh, Cláudio Gomes, and Joachim Denil. 2025. “Towards a Validity Frame of Multi-Modal Surrogate Models for Traffic Simulation.” 2025 Annual Modeling and Simulation Conference (ANNSIM), May, 1-13. https://ieeexplore.ieee.org/abstract/document/11214513.
@@ -57,7 +69,7 @@
     Vanommeslaeghe, Yon, Cláudio Gomes, Bert Van Acker, Joachim Denil, and Paul De Meulenaere. 2025. “Adapting Parallel DEVS Semantics to FMI 3.0 Co-Simulation Using Synchronous Clocks.” SIMULATION, December 26, 00375497251393255. https://doi.org/10.1177/00375497251393255.
   
   Baxter2025: |
-    Baxter, James, Bert Van Acker, Morten Kristensen, Thomas Wright, Ana Cavalcanti, and Cláudio Gomes. 2025. “Formal Architectural Patterns for Adaptive Robotic Software.” International Conference on Fundamental Approaches to Software Engineering, 145-65.
+    Baxter, James, Bert Van Acker, Morten Kristensen, Thomas Wright, Ana Cavalcanti, and Cláudio Gomes. 2025. “Formal Architectural Patterns for Adaptive Robotic Software.” In Fundamental Approaches to Software Engineering, edited by Artur Boronat and Gordon Fraser, 145–165. Lecture Notes in Computer Science 15693. Cham: Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-90900-9_8.
 
   Kakavandi2025: |
     Kakavandi, Fatemeh, Peihua Han, Tim Brix Nerenst, Roger de Reus, Cláudio Gomes, and Peter Gorm Larsen. 2025. “Comparative Study in Fault Detection under Data Scarcity for Pharmaceutical Device Manufacturing.” 2025 International Conference on Control, Automation and Diagnosis (ICCAD), July, 1-6. https://doi.org/10.1109/ICCAD64771.2025.11099417.
@@ -67,9 +79,6 @@
 
   Gomes2025: |
     “Gomes, Cláudio, Morten Haahr Kristensen, Mikkel Schmidt Andersen, et al. 2025. “Digital Twin Tutorial: The Incubator Case Study.” Lecture Notes in Computer Science (Singapore), 68-101. https://doi.org/10.1007/978-981-96-4656-2_3.
-
-  Gil2025: |
-    Gil, Santiago, Elif E. Baş, Christian D. Jensen, Sebastian Engelsgaard, Giuseppe Abbiati, and Cláudio Gomes. “FMI-Based Distributed Co-Simulation with Enhanced Security and Intellectual Property Safeguards.” In Proceedings of the 2025 Annual Modeling and Simulation Conference (ANNSIM'25). Madrid, Spain: Society for Modeling & Simulation International (SCS), 2025.
 
 2024:
   Bas2024: |
@@ -81,20 +90,11 @@
   Larsen2024: |
     Larsen, Peter G., Shaukat Ali, Roland Behrens, Ana Cavalcanti, Cláudio Gomes, Guoyuan Li, Paul De Meulenaere, et al. “Robotic Safe Adaptation in Unprecedented Situations: The RoboSAPIENS Project.” Research Directions: Cyber-Physical Systems 2 (2024): e4. https://doi.org/10.1017/cbp.2024.4.
 
-  Talasila2024: |
-    Talasila, Prasad, Cláudio Gomes, Lars B Vosteen, Hannes Iven, Martin Leucker, Santiago Gil, Peter H Mikkelsen, Eduard Kamburjan, and Peter G Larsen. “Composable Digital Twins on Digital Twin as a Service Platform.” SIMULATION, December 1, 2024, 00375497241298653. https://doi.org/10.1177/00375497241298653.
-
-  Tang2024: |
-    Tang, Valdemar, Cláudio Gomes, and Daniel E. Lucani. “Precision on Demand: Propositional Logic for Event-Trigger Threshold Regulation.” IEEE Internet of Things Journal, 2024, 1-1. https://doi.org/10.1109/JIOT.2024.3476922.
-
   Nordtorp2024: |
     Nordtorp, F., E. E. Baş, Cláudio Gomes, and G. Abbiati. “A Hybrid Testing Framework for Wind Turbine Mechanical Components.” Journal of Physics: Conference Series 2767, no. 5 (June 1, 2024): 052046. https://doi.org/10.1088/1742-6596/2767/5/052046.
   
   David2024: |
     David, Istvan, Guodong Shao, Cláudio Gomes, Dawn M. Tilbury, and Bassam Zarkout. “Interoperability of Digital Twins: Challenges, Success Factors, and Future Research Directions.” In Leveraging Applications of Formal Methods, Verification and Validation: Tools and Trends, 15223:27-46. Crete, Greece: Springer Nature Switzerland, 2024. https://doi.org/10.1007/978-3-031-75390-9_3.
-
-  Gil2024a: |
-    Gil, Santiago, Bentley J Oakes, Cláudio Gomes, Mirgita Frasheri, and Peter G Larsen. “Toward a Systematic Reporting Framework for Digital Twins: A Cooperative Robotics Case Study.” SIMULATION, August 2, 2024, 00375497241261406. https://doi.org/10.1177/00375497241261406.
 
   Oakes2024: |
     Oakes, Bentley, Cláudio Gomes, Eduard Kamburjan, Giuseppe Abbiati, Elif Ecem Bas, and Sebastian Engelsgaard. “Towards Ontological Service-Driven Engineering of Digital Twins.” In Proceedings of the ACM/IEEE 27th International Conference on Model Driven Engineering Languages and Systems, 464-69. MODELS Companion ’24. New York, NY, USA: Association for Computing Machinery, 2024. https://doi.org/10.1145/3652620.3688261.
@@ -106,7 +106,7 @@
     Hansen, Simon Thrane, Casper Thule, Cláudio Gomes, Kenneth Guldbrandt Lausdahl, Frederik Palludan Madsen, Giuseppe Abbiati, and Peter Gorm Larsen. ‘Co-Simulation at Different Levels of Expertise with Maestro2’. Journal of Systems and Software 209 (March 2024): 111905. https://doi.org/10.1016/j.jss.2023.111905.
 
   Gil2024: |
-    Gil, Santiago, Peter H. Mikkelsen, Cláudio Gomes, and Peter G. Larsen. ‘Survey on Open‐source Digital Twin Frameworks-A Case Study Approach’. Software: Practice and Experience, 6 January 2024, spe.3305. https://doi.org/10.1002/spe.3305.
+    Gil, Santiago, Peter H. Mikkelsen, Cláudio Gomes, and Peter G. Larsen. 2024. “Survey on Open‐source Digital Twin Frameworks-A Case Study Approach.” Software: Practice and Experience 54, no. 6 (June): 929–960. https://doi.org/10.1002/spe.3305.
 
 2023:
 
