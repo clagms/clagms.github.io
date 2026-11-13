@@ -1,4 +1,29 @@
+2027:
+  Evans2027: |
+    Evans, Valdemar Tang, Daniel Lucani, Hei Victor Cheng, Thomas Wright, and Claudio Gomes. 2027. “Logical Compression: Source Coding for Distributed Temporal Logic Monitoring.” In Runtime Verification, edited by Sean Kauffman and Giulia Pedrielli, 61–81. Lecture Notes in Computer Science 17117. Cham: Springer Nature Switzerland. https://doi.org/10.1007/978-3-032-41160-0_5.
+
+  Kristensen2027: |
+    Kristensen, Morten Haahr, Thomas Wright, Mirgita Frasheri, Cláudio Gomes, Peter Gorm Larsen, and Lukas Esterle. 2027. “DSRV: Reconfigurable Stream Runtime Verification with Context Transfers.” In Runtime Verification, edited by Sean Kauffman and Giulia Pedrielli, 104–122. Lecture Notes in Computer Science 17117. Cham: Springer Nature Switzerland. https://doi.org/10.1007/978-3-032-41160-0_7.
+
 2026:
+  Sartaj2026: |
+    Sartaj, Hassan, Shaukat Ali, Ana Cavalcanti, Lukas Esterle, Cláudio Gomes, Peter Gorm Larsen, Anastasios Tefas, Jim Woodcock, and Houxiang Zhang. 2026. “Software Engineering for Self-Adaptive Robotics: A Research Agenda.” ACM Transactions on Software Engineering and Methodology 35, no. 9: article 276, 1–44. https://doi.org/10.1145/3828754.
+
+  Gomes2026: |
+    Gomes, Cláudio, Thomas Wright, Peter Gorm Larsen, Lukas Esterle, Philipp Zech, Ana Cavalcanti, James Woodcock, Bentley Oakes, and Hans Vangheluwe. 2026. “BRIC-DT: Building Reliable Interfaces for Composable Digital Twins.” In Proceedings of the ACM/IEEE 29th International Conference on Model Driven Engineering Languages and Systems, 480–484. MODELS Companion '26. New York, NY, USA: ACM. https://doi.org/10.1145/3837062.3839083.
+
+  Fitzgerald2026: |
+    Fitzgerald, John S., Cláudio Gomes, Peter Gorm Larsen, Mikkel Schmidt Andersen, Santiago Gil, and Morten Haahr Kristensen. 2026. “Digital Twins: a Briefing for Formalists.” In Formal Methods, edited by Augusto Sampaio and Marielle Stoelinga, 369–393. Lecture Notes in Computer Science 16557. Cham: Springer Nature Switzerland. https://doi.org/10.1007/978-3-032-26220-2_19.
+
+  Andersen2026: |
+    Andersen, Mikkel Schmidt, Oliver Thomas, Prasad Talasila, Cláudio Gomes, and Peter Gorm Larsen. 2026. “SMP Workbench: An Interactive Tool for Semi-Markov Process Engineering in Digital Twins.” In Proceedings of the ACM/IEEE 29th International Conference on Model Driven Engineering Languages and Systems, 465–469. MODELS Companion '26. New York, NY, USA: ACM. https://doi.org/10.1145/3837062.3839090.
+
+  Wang2026: |
+    Wang, Yi, Cláudio Gomes, and Philipp Zech. 2026. “A Model-driven BIM2SIM Workflow for Surrogate Modeling.” In Proceedings of the ACM/IEEE 29th International Conference on Model Driven Engineering Languages and Systems, 281–292. MODELS '26. New York, NY, USA: ACM. https://doi.org/10.1145/3822455.3830314.
+
+  Thrue2026: |
+    Thrue, Emil Dalgas, Arman Fathollahi, Claudio Gomes, and Björn Andresen. 2026. “Digital Twin Design and Experimental Validation of Step-Down DC/DC Converters in Power-to-Hydrogen Systems.” In 2026 8th Global Power, Energy and Communication Conference (GPECOM), 120–125. IEEE. https://doi.org/10.1109/GPECOM70462.2026.11578715.
+
   Wright2026: |
     Wright, Thomas, Morten Haahr Kristensen, Mirgita Frasheri, Peter Gorm Larsen, Lukas Esterle, and Cláudio Gomes. 2026. “Self-Adaptive Distributed Runtime Monitoring for Autonomous Systems.” In 2026 IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS). IEEE. Forthcoming. https://2026.acsos.org/track/acsos-2026-papers.
 
